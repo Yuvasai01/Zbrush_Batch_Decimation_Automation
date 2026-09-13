@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+.vscode/
+.idea/
+
+# Local ZBrush assets
+*.ztl
+*.obj
+
+# Generated screenshots
+*.png
