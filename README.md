@@ -2,6 +2,10 @@
 
 Python + PyAutoGUI automation for batch-processing ZBrush `.ztl` assets.
 
+# AI-Assisted Development
+
+This project was developed with assistance from AI prompting. Natural-language prompts were used to develop and iteratively refine the Python automation workflow, timing strategy, coordinate-based UI actions, documentation, and testing process.
+
 ## Features
 
 - Batch processing of multiple `.ztl` files
